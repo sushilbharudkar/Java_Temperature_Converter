@@ -19,9 +19,9 @@ Celsius, Fahrenheit, and Kelvin using a menu-driven approach.
 ## How to Run
 1. Clone or download the repository
 2. Compile the program:
-   javac TemperatureConverter.java
+   javac TempConverter.java
 4. Run the program:
-   java TemperatureConverter
+   java TempConverter
 
 ## Purpose
 - Improve problem-solving skills and logic implementation.
